@@ -1,0 +1,1 @@
+This resp. is program for log outputs every 5 sec. in python in container and kubernetes configuration.
